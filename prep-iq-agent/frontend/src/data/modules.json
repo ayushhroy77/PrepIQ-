@@ -1,0 +1,51 @@
+{
+  "Physics": {
+    "Motion": "https://www.youtube.com/watch?v=ZJYpUj2ZCZw",
+    "Force and Laws of Motion": "https://www.youtube.com/watch?v=ziQYJtZs0xE",
+    "Gravitation": "https://www.youtube.com/watch?v=MTY1Kje0yLg",
+    "Work and Energy": "https://www.youtube.com/watch?v=dK3JzQWqWoc",
+    "Sound": "https://www.youtube.com/watch?v=OV7bkawOaLE",
+    "Light - Reflection and Refraction": "https://www.youtube.com/watch?v=G5s1_T9RReE",
+    "The Human Eye and the Colourful World": "https://www.youtube.com/watch?v=xxX4onhTwh0",
+    "Electricity": "https://www.youtube.com/watch?v=q2vniZV5PRs",
+    "Magnetic Effects of Electric Current": "https://www.youtube.com/watch?v=3vBzL1YwE-E",
+    "Sources of Energy": "https://www.youtube.com/watch?v=Q5J4mTXzvZc"
+  },
+  "Chemistry": {
+    "Matter in Our Surroundings": "https://www.youtube.com/watch?v=8m6O7O7FHTE",
+    "Is Matter Around Us Pure?": "https://www.youtube.com/watch?v=4Yh1XxBFZy4",
+    "Atoms and Molecules": "https://www.youtube.com/watch?v=kfF40MiS7zA",
+    "Structure of the Atom": "https://www.youtube.com/watch?v=qR07WzYtJX0",
+    "Chemical Reactions and Equations": "https://www.youtube.com/watch?v=d-F7TE2tHPU",
+    "Acids, Bases and Salts": "https://www.youtube.com/watch?v=rd0L6z5ER9I",
+    "Metals and Non-Metals": "https://www.youtube.com/watch?v=jS7t6rY5E7U",
+    "Carbon and its Compounds": "https://www.youtube.com/watch?v=gKNjA9uQskM",
+    "Periodic Classification of Elements": "https://www.youtube.com/watch?v=4zjz8z3c-9A"
+  },
+  "Biology": {
+    "The Fundamental Unit of Life": "https://www.youtube.com/watch?v=zLZ8iT-t6mE",
+    "Tissues": "https://www.youtube.com/watch?v=0gFwOmtZvhQ",
+    "Diversity in Living Organisms": "https://www.youtube.com/watch?v=FtzK4FShhBc",
+    "Life Processes": "https://www.youtube.com/watch?v=EjK12Y9iGmA",
+    "Control and Coordination": "https://www.youtube.com/watch?v=hQAmTxkq7pw",
+    "How do Organisms Reproduce?": "https://www.youtube.com/watch?v=wC-95LkHdzk",
+    "Heredity and Evolution": "https://www.youtube.com/watch?v=ZV4rU7XnA3M",
+    "Our Environment": "https://www.youtube.com/watch?v=pksrWThcT08",
+    "Management of Natural Resources": "https://www.youtube.com/watch?v=q9CaiBXY1_E"
+  },
+  "Mathematics": {
+    "Number Systems": "https://www.youtube.com/watch?v=OPyEwFE9d4s",
+    "Polynomials": "https://www.youtube.com/watch?v=E2qQXYdYBr8",
+    "Coordinate Geometry": "https://www.youtube.com/watch?v=dHa1b6LPKcs",
+    "Linear Equations in Two Variables": "https://www.youtube.com/watch?v=3EoI-6lQFuw",
+    "Triangles": "https://www.youtube.com/watch?v=kp3vF1PDkYc",
+    "Quadrilaterals": "https://www.youtube.com/watch?v=jpdSwq3l_h8",
+    "Areas of Parallelograms and Triangles": "https://www.youtube.com/watch?v=FOMUqUlHzF8",
+    "Circles": "https://www.youtube.com/watch?v=_YhnYlmx-YU",
+    "Constructions": "https://www.youtube.com/watch?v=5NxqvqaFfGg",
+    "Heron's Formula": "https://www.youtube.com/watch?v=jko0E4nSMyY",
+    "Surface Areas and Volumes": "https://www.youtube.com/watch?v=BAKY3_3OMgE",
+    "Statistics": "https://www.youtube.com/watch?v=2r3n2F8x-FU",
+    "Probability": "https://www.youtube.com/watch?v=WqS3ezUjZ7I"
+  }
+}
